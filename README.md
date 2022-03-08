@@ -20,3 +20,5 @@
     - agora inicie o server : ```yarn run dev```
 2. Agora navegue até o diretório: ```template-gcb``` 
   - Incicie o server do React : ```yarn start```
+
+## Pronto para  usar :grin: 
