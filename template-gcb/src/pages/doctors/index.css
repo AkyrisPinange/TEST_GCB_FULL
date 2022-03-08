@@ -1,0 +1,19 @@
+.Header-doctors{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.phone{
+    height: 38px;
+    border-color: #cccccc;
+    border-block-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    box-shadow: none;
+    border-radius: 5%;
+    width: 100%;
+
+}
